@@ -1,3 +1,4 @@
 # learnGit
+
 leran git checkout --theirs
-my name is Dom
+hello my name is Kaey
